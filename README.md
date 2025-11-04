@@ -176,7 +176,7 @@ Y enfocarse en **estudiantes**, con recomendaciones accesibles.
 ---
 
 ## 🛠 Tecnologías planeadas para el desarrollo futuro
-- **HTML + CSS + JavaScript**
+- **HTML + JavaScript**
 - **Flask (Python)**
 - Base de datos: por definir (SQLite / MySQL / Firebase)
 
@@ -193,3 +193,4 @@ Y enfocarse en **estudiantes**, con recomendaciones accesibles.
 ✍ Proyecto supervisado por: **Prof. Treviño**
 
 🎯 Proyecto final — Especialidad TIC
+
